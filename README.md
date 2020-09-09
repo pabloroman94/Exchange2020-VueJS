@@ -1,24 +1,8 @@
-# pablo-exchange
+# Criptomonedas - VUE.JS
+Pablo Roman
 
-## Project setup
-```
-npm install
-```
+## Descripcion:
+Es una plataforma que te servirá para visualizar todas las criptomonedas y sus valores en tiempo real utilizando las ventajas de Vue.js un framework
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## URL:
+[PabloExchangeVueJS](https://roman-exchange-vue.netlify.app/)
